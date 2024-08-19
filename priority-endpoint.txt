@@ -1,0 +1,11 @@
+ Priority
+
+ estimation period  kifkif 0
+ config css tailwind  0
+ main  1
+ picture 1
+ recherche products  3
+ footer  5 
+ bg footer 5
+ declanche video 4
+ manifes file  apres  5 

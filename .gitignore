@@ -1,0 +1,40 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+
+
+# TABS MOKLES TICKETS PRIO
+
+# Priority
+
+# estimation period  kifkif 0
+# config css tailwind  0
+# main  1
+# picture 1
+# recherche products  3
+# footer  5
+# bg footer 5
+# declanche video 4
+# manifes file  apres  5 
